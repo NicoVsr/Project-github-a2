@@ -202,6 +202,7 @@ p.account a {
 
 .music,
 .block {
+	border-radius: 20px;
 	padding: 30px;
 	background-color: #fff;
 	margin-top: 20px;
