@@ -7,6 +7,7 @@
 						<a href="index.php" class="logo"><i class="fa fa-soundcloud"></i></a>
 					</div>
 					<div class="col-xs-10 col-sm-10 col-md-11 col-lg-11">
+						<a href="https://www.facebook.com/SoundCloud/"  class="btn"> Facebook </a>
 						<a href="logout.php" class="btn">Déconnexion</a>
 						<a href="contact.php" class="btn">Contact </a>
 						<a href="edit_image.php" class="btn">Profil</a>
