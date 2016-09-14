@@ -8,10 +8,10 @@
 					</div>
 					<div class="col-xs-10 col-sm-10 col-md-11 col-lg-11">
 						<a href="logout.php" class="btn">Déconnexion</a>
+						<a href="contact.php" class="btn">Contact </a>
 						<a href="edit_image.php" class="btn">Profil</a>
 						<a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter une zic' </a>
-						<a href="http://www.soundcloud.com" class="btn"><i class="fa fa-plus"></i> Aller sur soundcloud </a>
-
+						<a href="http://www.soundcloud.com" class="btn">Aller sur soundcloud </a>
 					</div>
 				</div>
 			</div>
