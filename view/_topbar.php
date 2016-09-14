@@ -10,6 +10,8 @@
 						<a href="logout.php" class="btn">Déconnexion</a>
 						<a href="edit_image.php" class="btn">Profil</a>
 						<a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter une zic' </a>
+						<a href="http://www.soundcloud.com" class="btn"><i class="fa fa-plus"></i> Aller sur soundcloud </a>
+
 					</div>
 				</div>
 			</div>
