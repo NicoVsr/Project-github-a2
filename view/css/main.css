@@ -182,7 +182,7 @@ p.account a {
 }
 
 #topbar a.btn:hover {
-	background-color: #fff;
+	background-color: #ff00db;
 	color: #F50;
 	border: solid 1px #F50;
 	text-decoration: none;
