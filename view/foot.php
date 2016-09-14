@@ -10,6 +10,11 @@
 
             </div>
 
+            <div class="imgfoot2">
+
+                  <a href="https://github.com"> <img src="images/GitHub.jpg"  alt="GitHub"/> </a>
+
+            </div>
 
     </div>
 
