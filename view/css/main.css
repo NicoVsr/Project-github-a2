@@ -431,3 +431,12 @@ p.account a {
 	margin-left: 500px;
 	margin-top: 5vh;
 }
+
+
+.imgfoot img{
+	height: 50px;
+	width: 150px;
+	margin-left: 500px;
+	margin-top: -50px;
+
+}
