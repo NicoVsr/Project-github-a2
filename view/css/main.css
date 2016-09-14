@@ -169,11 +169,11 @@ p.account a {
 
 #topbar a.btn {
 	border: none;
-	background-color: #f50;
-	border: solid 1px #63ff03;
+	background-color: #ff2432;
+	border: solid 1px #333;
 	float: right;
 	line-height: 25px;
-	color: #13fff2;
+	color: #ffffff;
 	text-transform: uppercase;
 	font-size: 11px;
 	font-weight: 700;
@@ -182,9 +182,9 @@ p.account a {
 }
 
 #topbar a.btn:hover {
-	background-color: #ff00db;
-	color: #F50;
-	border: solid 1px #F50;
+	background-color: #c51d29;
+	color: #dfdfdf;
+	border: solid 1px #292929;
 	text-decoration: none;
 }
 
