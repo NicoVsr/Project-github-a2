@@ -7,8 +7,8 @@
 						<a href="index.php" class="logo"><i class="fa fa-soundcloud"></i></a>
 					</div>
 					<div class="col-xs-10 col-sm-10 col-md-11 col-lg-11">
-						<a href="https://www.facebook.com/SoundCloud/"  > <img src="images/LogoFb.png" class="fb">  </img </a>
-						<a href="https://twitter.com/soundcloud?lang=fr" class="btn"> Twitter </a>
+						<a href="https://www.facebook.com/SoundCloud/"  > <img src="images/LogoFb.png" class="fb">  </img> </a>
+						<a href="https://twitter.com/soundcloud?lang=fr" > <img src="images/LogoTwitter.jpg" class="tw" </img> </a>
 						<a href="logout.php" class="btn">Déconnexion</a>
 						<a href="contact.php" class="btn">Contact </a>
 						<a href="edit_image.php" class="btn">Profil</a>
