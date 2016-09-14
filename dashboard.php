@@ -16,4 +16,6 @@ $musics = listMusics($db);
 
 include 'view/_header.php';
 include 'view/dashboard.php';
+include 'view/foot.php';
 include 'view/_footer.php';
+

@@ -389,6 +389,7 @@ p.account a {
 	overflow: hidden;
 	position: relative;
 	width: 88%;
+	margin-bottom: 100px;
 }
 
 .audiojs .scrubber .progress{
@@ -408,8 +409,17 @@ p.account a {
 .audiojs {
 	background: #333;
 	position: fixed;
-	bottom: 0;
+	bottom: 100px;
 	width: 100%;
 	font-family: monospace;
 	font-size: 10px; /* reduced font size */
+}
+
+
+.foot{
+	position: fixed;
+	bottom: 0px;
+	height: 100px;
+	width: 100vw;
+	background-color: white;
 }
