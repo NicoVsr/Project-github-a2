@@ -423,3 +423,11 @@ p.account a {
 	width: 100vw;
 	background-color: white;
 }
+
+.footg{
+	width: 400px;
+	height: 400px;
+	color: black;
+	margin-left: 500px;
+	margin-top: 5vh;
+}
