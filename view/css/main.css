@@ -489,6 +489,11 @@ h2{
 	border-color: #ff2432;
 }
 
+.red:focus{
+	background-color: #ae1f2b;
+	border-color: #ae1f2b;
+}
+
 .mb-20{
 	margin-bottom: 20px;
 }
