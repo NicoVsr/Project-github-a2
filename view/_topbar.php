@@ -1,22 +1,40 @@
-<div class="row" style="background-color: #333;margin:0">
-	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-		<div id="topbar" class="clearfix">
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-2 col-sm-2 col-md-1 col-lg-1 text-center">
-						<a href="index.php" class="logo"><i class="fa fa-soundcloud"></i></a>
-					</div>
-					<div class="col-xs-10 col-sm-10 col-md-11 col-lg-11">
-						<a href="https://www.facebook.com/SoundCloud/"  > <img src="images/LogoFb.png" class="fb">  </img> </a>
-						<a href="https://twitter.com/soundcloud?lang=fr" > <img src="images/LogoTwitter.png" class="tw" </img> </a>
-						<a href="logout.php" class="btn">Déconnexion</a>
-						<a href="contact.php" class="btn">Contact </a>
-						<a href="edit_image.php" class="btn">Profil</a>
-						<a href="add_music.php" class="btn"><i class="fa fa-plus"></i> Ajouter une zic' </a>
-						<a href="http://www.soundcloud.com" class="btn">Aller sur soundcloud </a>
-					</div>
-				</div>
+<nav class="navbar navbar-inverse">
+	<div class="container-fluid">
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<div class="navbar-brand">
+				<a href="index.php" class="logo"><i class="fa fa-soundcloud"></i></a>
 			</div>
 		</div>
-	</div>
-</div>
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav">
+				<li><a href="https://twitter.com/soundcloud?lang=fr" class="logo"><i class="fa fa-twitter"></i></a></li>
+				<li><a href="https://www.facebook.com/SoundCloud/" class="logo"><i class="fa fa-facebook-official"></i></a></li>
+			</ul>
+
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="http://www.soundcloud.com">Aller sur soundcloud </a></li>
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Menu <span class="caret"></span></a>
+					<ul class="dropdown-menu">
+
+						<li><a href="logout.php">Déconnexion</a></li>
+						<li role="separator" class="divider"></li>
+						<li><a href="edit_image.php">Profil</a></li>
+						<li><a href="add_music.php"><i class="fa fa-plus"></i> Ajouter une zic' </a></li>
+						<li role="separator" class="divider"></li>
+						<li><a href="contact.php">Contact </a></li>
+					</ul>
+				</li>
+			</ul>
+		</div><!-- /.navbar-collapse -->
+	</div><!-- /.container-fluid -->
+</nav>
