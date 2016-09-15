@@ -36,6 +36,8 @@
 						<li><a href="edit_image.php">Profil</a></li>
 						<li><a href="add_music.php"><i class="fa fa-plus"></i> Ajouter une zic' </a></li>
 						<li role="separator" class="divider"></li>
+						<li><a href="videos.php"> Vidéos </a> </li>
+						<li role="separator" class="divider"></li>
 						<li><a href="blog.php"> Blog </a> </li>
 						<li><a href="contact.php">Contact </a></li>
 						<li><a href="about.php">À propos </a></li>
