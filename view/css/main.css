@@ -472,6 +472,27 @@ p.account a {
 	height: 110px;
 }
 
+h2{
+	font-size: 17px;
+}
+
+.txt-go{
+	font-style: italic;
+}
+
+.red{
+	background-color: #ae1f2b;
+	border-color: #ae1f2b;
+}
+.red:hover{
+	background-color: #ff2432;
+	border-color: #ff2432;
+}
+
+.mb-20{
+	margin-bottom: 20px;
+}
+
 /*	YOUTUBE RESPONSIVE EMBED	*/
 
 .video-container {
