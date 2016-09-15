@@ -25,7 +25,7 @@
                                 <h2>Aucune publicité</h2>
                                 <p class="txt-go">Rien ne vient s'immiscer entre toi et la musique.</p>
                             </div>
-                            <a href="#" class="btn btn-primary btn-lg red mb-20" role="button">Seulement 9,99 €/mois</a>
+                            <a href="https://soundcloud.com/go/buy/go" class="btn btn-primary btn-lg red mb-20" role="button">Seulement 9,99 €/mois</a>
                         </div>
                         <div class="video-container">
                             <iframe width="1280" height="720" src="https://www.youtube.com/embed/l-ZjvlvNu6g?rel=0" frameborder="0" allowfullscreen></iframe>
