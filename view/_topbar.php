@@ -19,7 +19,12 @@
 				<li><a href="https://twitter.com/soundcloud?lang=fr" class="logo"><i class="fa fa-twitter"></i></a></li>
 				<li><a href="https://www.facebook.com/SoundCloud/" class="logo"><i class="fa fa-facebook-official"></i></a></li>
 			</ul>
-
+			<form class="navbar-form navbar-left">
+				<div class="form-group">
+					<input type="text" class="form-control" placeholder="Rechercher une chanson">
+				</div>
+				<button type="submit" class="btn btn-default">Recherche</button>
+			</form>
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="http://www.soundcloud.com">Aller sur soundcloud </a></li>
 				<li class="dropdown">
