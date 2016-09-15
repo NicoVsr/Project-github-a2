@@ -213,15 +213,15 @@ p.account a {
 }
 
 .music:hover{
-	border: solid 1px #f50;
+	border: solid 1px #ff2432;
 }
 
 .music.playing {
-	border: solid 1px #f50;
+	border: solid 1px #ff2432;
 }
 
 .music.playing h3{
-	color: #f50;
+	color: #ff2432;
 	font-weight: bold;
 }
 
@@ -392,7 +392,7 @@ p.account a {
 }
 
 .audiojs .scrubber .progress{
-	background: #F50;
+	background: #ff2432;
 	border-radius: 0;
 }
 
@@ -467,3 +467,4 @@ p.account a {
 	width: 50%;
 	height: 50%;
 }
+
