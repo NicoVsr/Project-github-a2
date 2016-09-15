@@ -1,5 +1,5 @@
 <?php session_start();?>
-<?php include 'view/_header.php' ?>
+<?php include 'view/_topbar.php' ?>
 
     <!-- Page Content -->
     <div class="container">
@@ -17,10 +17,10 @@
                     </h1>
 
                     <?php
-                    require 'conf/db.php';
+                    require 'config/config.php';
 
-                    $request = $db->prepare("SELECT post.id, title, content, post_date, users FROM post
-                          JOIN members ON post.member_id = members.id");
+                    $request = $db->prepare("SELECT post.id, title, content, post_date, member_id FROM post
+                          JOIN users ON post.member_id = users");
                     $request->execute(array());
 
                     while ($data = $request->fetch()){
@@ -30,7 +30,7 @@
                             <?php echo $data["title"]; ?>
                         </h2>
                         <p class="lead">
-                            par <?php echo $data["users"]; ?>
+                            par <?php echo $data["username"]; ?>
                         </p>
                         <p><span class="glyphicon glyphicon-time"></span> Publié le <?php echo $data["post_date"]; ?></p>
                         <hr>
@@ -56,5 +56,3 @@
     </div>
     </div>
 
-
-<?php include 'view/_footer.php' ?>
