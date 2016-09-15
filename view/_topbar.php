@@ -35,6 +35,7 @@
 						<li role="separator" class="divider"></li>
 						<li><a href="edit_image.php">Profil</a></li>
 						<li><a href="add_music.php"><i class="fa fa-plus"></i> Ajouter une zic' </a></li>
+						<li><a href="genre.php"> Genre </a> </li>
 						<li role="separator" class="divider"></li>
 						<li><a href="blog.php"> Blog </a> </li>
 						<li><a href="contact.php">Contact </a></li>
@@ -43,6 +44,7 @@
 					</ul>
 				</li>
 			</ul>
+
 		</div><!-- /.navbar-collapse -->
 	</div><!-- /.container-fluid -->
 </nav>
