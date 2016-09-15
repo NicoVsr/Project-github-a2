@@ -457,3 +457,8 @@ p.account a {
 	height: 30px;
 	width: 30px;
 }
+
+.imgfoot :hover{
+	width: 50%;
+	height: 50%;
+}
