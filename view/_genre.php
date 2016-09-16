@@ -18,21 +18,23 @@
     </div>
 
 
-   <div class="trois">
-
-        <a  class="btn btn-primary btn-lg"  role="button"  href="https://soundcloud.com/user969005911" class="techno"> Rap </a>
-
-
-   </div>
-
-
-   <div class="quatre">
-
-       <a  class="btn btn-primary btn-lg"  role="button" href="https://soundcloud.com/sharyar-malik-1" class="techno"> Trance </a>
+   <button type="button" class="btn btn-secondary btn-lg btn-block"> <a href="https://soundcloud.com/user969005911"> Rap </a> </button>
 
 
 
-   </div>
+
+
+
+
+
+
+       <button type="button" class="btn btn-secondary btn-lg btn-block"> <a href="https://soundcloud.com/sharyar-malik-1"> Trance </a> </button>
+
+
+
+
+
+
 
 
 
