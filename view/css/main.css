@@ -302,7 +302,7 @@ p.account a {
 	-ms-transition: opacity 0.2s ease-in-out;
 	transition: opacity 0.2s ease-in-out;
 	border-radius: 0.35em;
-	border: solid 3px rgba(243, 243, 243, 0.5);
+	border: solid 3px rgba(255, 255, 255, 0.5);
 	color: #fff;
 	content: 'View';
 	display: inline-block;
