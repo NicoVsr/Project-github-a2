@@ -4,6 +4,7 @@
 
    <div class="premiere">
 
+       <a href="https://soundcloud.com/nicovsr/sets/techno" class="techno"> Techno </a>
 
    </div>
 
