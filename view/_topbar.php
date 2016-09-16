@@ -28,6 +28,7 @@
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="go.php">Passer à Soundcloud Go </a></li>
 				<li><a href="http://www.soundcloud.com">Aller sur soundcloud </a></li>
+				<li><a href="genre.php"> Genres </a> </li>
 
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Menu <span class="caret"></span></a>
