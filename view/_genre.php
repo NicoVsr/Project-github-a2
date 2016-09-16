@@ -28,7 +28,7 @@
 
    <div class="quatre">
 
-       <a href="https://soundcloud.com/sharyar-malik-1" class="techno"> Trance </a>
+       <a  class="btn btn-primary btn-lg" href="register.php" role="button" href="https://soundcloud.com/sharyar-malik-1" class="techno"> Trance </a>
 
 
 
