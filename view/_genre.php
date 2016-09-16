@@ -11,7 +11,7 @@
 
     <div class="deuxieme">
 
-        <a href="https://soundcloud.com/hugo-dos-santos-3/sets/chillax" class="techno"> Chill </a>
+        <a  class="btn btn-primary btn-lg" href="register.php" role="button" href="https://soundcloud.com/hugo-dos-santos-3/sets/chillax" class="techno"> Chill </a>
 
 
 
