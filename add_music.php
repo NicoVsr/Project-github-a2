@@ -7,6 +7,8 @@ if( isset($_FILES['music']) && !empty($_FILES['music']) &&
 	isset($_POST['title']) && !empty($_POST['title'])){
 	
 	$file = $_FILES['music'];
+    $title = htmlspecialchars($_POST["title"]);
+
 	// Si le "fichier" reçu est bien un fichier
 		$ext = strtolower(substr(strrchr($file['name'], '.')  ,1));
 		// Vérification des extentions

@@ -1,6 +1,6 @@
 <div class="foot">
 
-    <div class="footg"
+    <div class="footg">
 
          <p>Développé par Louis Resche et Nicolas Vessiere !</p>
 
@@ -15,6 +15,8 @@
                   <a href="https://github.com"> <img src="images/GitHub.jpg"  alt="GitHub"/> </a>
 
             </div>
+
+
 
     </div>
 
