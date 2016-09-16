@@ -1,28 +1,19 @@
-
+<body>
 
 <?php include '_topbar.php'; ?>
-<body>
 
 <?php
 session_start();
 ?>
 
 
-<!doctype html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>Formulaire de contact - Version minimale</title>
+
+
     <!-- call bootstrap -->
     <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
 
-</head>
-<body style="padding:100px 0 200px 0">
-<div style="padding-bottom:100px" class="container">
-    <div class="row">
-        
-    </div>
-</div>
+
+
 <!-- CONTENT -->
 <div class="container">
     <?php if(array_key_exists('errors',$_SESSION)): ?>
