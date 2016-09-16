@@ -8,6 +8,6 @@ require('model/functions.fn.php');
 
 
 include 'view/_header.php';
-include 'view/genre.php';
+include 'view/_genre.php';
 include 'view/foot.php';
 include 'view/_footer.php';

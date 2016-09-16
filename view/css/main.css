@@ -468,10 +468,13 @@ p.account a {
 	height: 50%;
 }
 
-<<<<<<< HEAD
+
+.premiere
 
 
-=======
+
+
+
 .espace{
 	height: 110px;
 }
@@ -568,4 +571,3 @@ h2{
 .bar:nth-child(8)  { left: 29px; animation-duration: 419ms; }
 .bar:nth-child(9)  { left: 33px; animation-duration: 487ms; }
 .bar:nth-child(10) { left: 37px; animation-duration: 442ms; }​
->>>>>>> master
