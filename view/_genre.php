@@ -4,7 +4,7 @@
 
    <div class="premiere">
 
-       <a href="https://soundcloud.com/nicovsr/sets/techno" class="techno"> Techno </a>
+       <a  class="btn btn-primary btn-lg" href="register.php" role="button" href="https://soundcloud.com/nicovsr/sets/techno" class="techno"> Techno </a>
 
    </div>
 
