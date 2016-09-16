@@ -41,7 +41,7 @@
 						<li><a href="videos.php"> Vidéos </a> </li>
 						<li><a href="go.php"> Soundcloud Go </a> </li>
 						<li role="separator" class="divider"></li>
-						<li><a href="blog.php"> Blog </a> </li>
+						<li><a href="https://blog.soundcloud.com/"> Blog </a> </li>
 						<li><a href="contact.php">Contact </a></li>
 						<li><a href="about.php">À propos </a></li>
 
