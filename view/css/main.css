@@ -469,7 +469,44 @@ p.account a {
 }
 
 
-.premiere
+.premiere{
+	width: 60%;
+	height: 100px;
+	background-color: black;
+	margin-left: 20%;
+	border-radius: 15px;
+
+}
+
+.deuxieme{
+	margin-left: 20%;
+	margin-top: 3%;
+	width: 60%;
+	height: 100px;
+	background-color: black;
+	border-radius: 15px;
+}
+
+.trois{
+
+	margin-left: 20%;
+	margin-top: 3%;
+	width: 60%;
+	height: 100px;
+	background-color: black;
+	border-radius: 15px;
+
+}
+
+.quatre{
+
+	margin-left: 20%;
+	margin-top: 3%;
+	width: 60%;
+	height: 100px;
+	background-color: black;
+	border-radius: 15px;
+}
 
 
 
