@@ -20,7 +20,7 @@
 
    <div class="trois">
 
-        <a href="https://soundcloud.com/user969005911" class="techno"> Rap </a>
+        <a  class="btn btn-primary btn-lg" href="register.php" role="button"  href="https://soundcloud.com/user969005911" class="techno"> Rap </a>
 
 
    </div>
