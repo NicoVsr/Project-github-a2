@@ -26,7 +26,9 @@
 				<button type="submit" class="btn btn-default">Recherche</button>
 			</form>
 			<ul class="nav navbar-nav navbar-right">
+				<li><a href="go.php">Passer à Soundcloud Go </a></li>
 				<li><a href="http://www.soundcloud.com">Aller sur soundcloud </a></li>
+
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Menu <span class="caret"></span></a>
 					<ul class="dropdown-menu">
@@ -37,7 +39,10 @@
 						<li><a href="add_music.php"><i class="fa fa-plus"></i> Ajouter une zic' </a></li>
 						<li><a href="genre.php"> Genre </a> </li>
 						<li role="separator" class="divider"></li>
-						<li><a href="blog.php"> Blog </a> </li>
+						<li><a href="videos.php"> Vidéos </a> </li>
+						<li><a href="go.php"> Soundcloud Go </a> </li>
+						<li role="separator" class="divider"></li>
+						<li><a href="https://blog.soundcloud.com/"> Blog </a> </li>
 						<li><a href="contact.php">Contact </a></li>
 						<li><a href="about.php">À propos </a></li>
 
